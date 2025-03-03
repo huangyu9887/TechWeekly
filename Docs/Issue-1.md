@@ -21,7 +21,7 @@
    - smallpond：基于duckDB和3FS构建的轻量级数据处理框架
    - 另开源v3/r1推理系统的设计细节，核心优化目标：更高的吞吐量和更低的延迟
 
-2.字节发布ai编程工具Trae
+2.字节发布ai编程工具[Trae](https://www.trae.ai/)
 
 
 # Fun
