@@ -9,5 +9,5 @@ Inspired by https://github.com/ruanyf/weekly , https://toolight.cn/ and many oth
 
 **三月**
 
-- 第 1 期：[待定](docs/Issue-1.md)
+- 第 1 期：[Deepseek开源8个模型](Docs/Issue-1.md)
 -
