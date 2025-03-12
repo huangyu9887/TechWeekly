@@ -23,6 +23,8 @@
 
 2.字节发布ai编程工具[Trae](https://www.trae.ai/)
 
+3.Manus现象爆火
+
 
 # 影像术语
 
